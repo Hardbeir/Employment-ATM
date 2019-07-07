@@ -1,0 +1,5 @@
+C:\Users\Roman\documents\visual studio 2010\Projects\21345\21345\bin\Debug\21345.exe
+C:\Users\Roman\documents\visual studio 2010\Projects\21345\21345\bin\Debug\21345.pdb
+C:\Users\Roman\documents\visual studio 2010\Projects\21345\21345\obj\x86\Debug\21345.csprojResolveAssemblyReference.cache
+C:\Users\Roman\documents\visual studio 2010\Projects\21345\21345\obj\x86\Debug\21345.exe
+C:\Users\Roman\documents\visual studio 2010\Projects\21345\21345\obj\x86\Debug\21345.pdb
